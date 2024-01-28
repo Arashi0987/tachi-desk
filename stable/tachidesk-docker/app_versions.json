@@ -21,7 +21,7 @@
                 "truecharts.org/SCALE-support": "true",
                 "truecharts.org/category": "MediaServer-Other",
                 "truecharts.org/max_helm_version": "3.14",
-                "truecharts.org/min_helm_version": "3.12",
+                "truecharts.org/min_helm_version": "3.9",
                 "truecharts.org/train": "stable"
             },
             "apiVersion": "v2",
